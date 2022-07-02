@@ -1,0 +1,2 @@
+# azuredevops
+trainings on devops 
